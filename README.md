@@ -5,6 +5,11 @@ In this repo I discuss the issue of memory in the field of AI and robotics. What
 - [To download the research PDFs, click here.](https://zenodo.org/records/14976723)  
 
 - [To view the second research, click here.](https://github.com/Mike014/Memory_Augmented_AI/blob/main/AI_Memory_and_Gifted-Inspired_Learning.ipynb)  
-- [To download the second research PDFs, click here.](https://zenodo.org/records/14988996)  
+- [To download the second research PDFs, click here.](https://zenodo.org/records/14988996)
+
+These are the **links** to extra studies that I am learning by reading **Roger Penrose's** book **The Emperor's New Mind**.
+
+- [The Illusion of Understanding in AI](https://github.com/Mike014/Memory_Augmented_AI/blob/main/The_Illusion_of_Understanding_in_AI.ipynb)
+- [Simulating Feelings Pain and Pleasure in the Age of AI](https://github.com/Mike014/Memory_Augmented_AI/blob/main/Simulating_Feelings_Pain_and_Pleasure_in_the_Age_of_AI.ipynb)
 
 
