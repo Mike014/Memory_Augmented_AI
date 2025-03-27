@@ -33,5 +33,6 @@ Listed by importance for understanding the consciousness-memory nexus:
 9. [EWC and Memory Coherence Experiments](https://github.com/Mike014/My_AI_Engineer_Portfolio_Projects/blob/22317d42e9c8a08a437ae0dfe07c3e5f14a8a949/Deep_Learning/Keras_NN/Transformers_with_Keras.ipynb) - Technical investigations into memory-learning balance
 10. [Perceptive AI](https://app.readytensor.ai/publications/omnia-hybrid-autoencoder-for-audio-spectrogram-reconstruction-and-enhancement-kZXyHHNcIvf4) - How AI Can Perceive Through Computational Simulations What We Define as "Senses"
 11. [Thoughts and Analysis on the Turing Machine](https://github.com/Mike014/Memory_Augmented_AI/blob/main/The_Turing_Machine.ipynb) - Fundamental computational theory
+12. [Ship of Theseus](https://medium.com/@mikgrimaldi7/the-ship-of-theseus-paradox-and-digital-identity-in-soma-8fbf865f8a87) - Experiment about whether an object is the same object after having all of its original components replaced over time, typically one after the other.
 
 
