@@ -31,6 +31,7 @@ Listed by importance for understanding the consciousness-memory nexus:
 7. [Do Machines Think?](https://medium.com/@mikgrimaldi7/what-artificial-intelligence-really-is-today-computational-thinking-agents-and-the-reality-2e05dc3a2460) - Fundamental philosophical questions in AI
 8. [Simulating Feelings: Pain and Pleasure in AI](https://github.com/Mike014/Memory_Augmented_AI/blob/main/Simulating_Feelings_Pain_and_Pleasure_in_the_Age_of_AI.ipynb) - Qualia and experiential aspects in artificial systems
 9. [EWC and Memory Coherence Experiments](https://github.com/Mike014/My_AI_Engineer_Portfolio_Projects/blob/22317d42e9c8a08a437ae0dfe07c3e5f14a8a949/Deep_Learning/Keras_NN/Transformers_with_Keras.ipynb) - Technical investigations into memory-learning balance
-10. [Thoughts and Analysis on the Turing Machine](https://github.com/Mike014/Memory_Augmented_AI/blob/main/The_Turing_Machine.ipynb) - Fundamental computational theory
+10. [Perceptive AI](https://app.readytensor.ai/publications/omnia-hybrid-autoencoder-for-audio-spectrogram-reconstruction-and-enhancement-kZXyHHNcIvf4) - How AI Can Perceive Through Computational Simulations What We Define as "Senses"
+11. [Thoughts and Analysis on the Turing Machine](https://github.com/Mike014/Memory_Augmented_AI/blob/main/The_Turing_Machine.ipynb) - Fundamental computational theory
 
 
