@@ -69,14 +69,16 @@ The list is sorted **by relative importance** to this research, with a focus on 
 11. **[Perceptive AI](https://app.readytensor.ai/publications/omnia-hybrid-autoencoder-for-audio-spectrogram-reconstruction-and-enhancement-kZXyHHNcIvf4)**  
     *AI simulation of "senses" using audio reconstruction and computational perception.*
 
+12. [Adaptive Bias in Language Models](https://medium.com/@mikgrimaldi7/adaptive-bias-in-language-models-c3a2eec79133)
+    *Bias and Latent Space as Algorithmic Self-Adaptation.*
 ---
 
 ## **Computational Limits and Meta-Theory**
 
-12. **[Thoughts and Analysis on the Turing Machine](https://github.com/Mike014/Memory_Augmented_AI/blob/main/The_Turing_Machine.ipynb)**  
+13. **[Thoughts and Analysis on the Turing Machine](https://github.com/Mike014/Memory_Augmented_AI/blob/main/The_Turing_Machine.ipynb)**  
     *Foundational analysis of computation and identity in discrete-state machines.*
 
-13. **[Limits of Computational Thinking](https://medium.com/@mikgrimaldi7/artificial-intelligence-consciousness-and-the-limits-of-computational-thinking-2ba34a7d0299)**  
+14. **[Limits of Computational Thinking](https://medium.com/@mikgrimaldi7/artificial-intelligence-consciousness-and-the-limits-of-computational-thinking-2ba34a7d0299)**  
     *Philosophical reflection on the boundaries of algorithmic reasoning and formal logic.*
 
 ---
