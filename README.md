@@ -3,6 +3,8 @@
 ## Overview
 This repository explores the **critical challenge of memory systems in artificial intelligence and robotics**. I **investigate theoretical foundations**, **practical implementations**, and **philosophical implications** of creating stable, adaptive memory architectures for intelligent systems.
 
+As part of this work, I'm conducting **real experiments on my hybrid AI agent, [NoVa](https://github.com/Mike014/__NoVa__)**, which combines **LLMs** and **context-aware memory structures**. The agent remains coherent within conversations and is built using the **SmolAgents** library for lightweight autonomous behavior. This experimentation bridges theory with practical autonomous systems.
+
 ## Research Papers
 ### Memory Foundations
 - [Primary Research: Memory Systems in AI](https://github.com/Mike014/Memory_Augmented_AI/blob/main/Memory_Augmented_AI.ipynb)  
@@ -23,8 +25,10 @@ Listed by importance for understanding the consciousness-memory nexus:
 3. [Building AI with Autonomous Memory](https://medium.com/@mikgrimaldi7/building-ai-with-autonomous-memory-a-comparison-of-langgraph-brain-inspired-models-and-ewc-54eaff4275e3) - Practical implementation of theoretical memory principles
 4. [Limits of Computational Thinking](https://medium.com/@mikgrimaldi7/artificial-intelligence-consciousness-and-the-limits-of-computational-thinking-2ba34a7d0299) - Philosophical examination of computational boundaries
 5. [The Illusion of Understanding in AI](https://github.com/Mike014/Memory_Augmented_AI/blob/main/The_Illusion_of_Understanding_in_AI.ipynb) - Critical analysis of comprehension in artificial systems
-6. [Dialogue with an LLM (Agent) who simulates human attachment](https://medium.com/@mikgrimaldi7/computational-attachment-a-reflection-609364bd42e0) - Short explorations on AI simulation of emotions: can machines authentically model human feelings or merely approximate them? 
+6. [Dialogue with an LLM (Agent) who simulates human attachment](https://medium.com/@mikgrimaldi7/computational-attachment-a-reflection-609364bd42e0) - Short explorations on AI simulation of emotions: can machines authentically model human feelings or merely approximate them?
 7. [Do Machines Think?](https://medium.com/@mikgrimaldi7/what-artificial-intelligence-really-is-today-computational-thinking-agents-and-the-reality-2e05dc3a2460) - Fundamental philosophical questions in AI
 8. [Simulating Feelings: Pain and Pleasure in AI](https://github.com/Mike014/Memory_Augmented_AI/blob/main/Simulating_Feelings_Pain_and_Pleasure_in_the_Age_of_AI.ipynb) - Qualia and experiential aspects in artificial systems
 9. [EWC and Memory Coherence Experiments](https://github.com/Mike014/My_AI_Engineer_Portfolio_Projects/blob/22317d42e9c8a08a437ae0dfe07c3e5f14a8a949/Deep_Learning/Keras_NN/Transformers_with_Keras.ipynb) - Technical investigations into memory-learning balance
 10. [Thoughts and Analysis on the Turing Machine](https://github.com/Mike014/Memory_Augmented_AI/blob/main/The_Turing_Machine.ipynb) - Fundamental computational theory
+
+
