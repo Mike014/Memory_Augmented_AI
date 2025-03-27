@@ -3,6 +3,8 @@
 ## Overview
 This repository explores the **critical challenge of memory systems in artificial intelligence and robotics**. I **investigate theoretical foundations**, **practical implementations**, and **philosophical implications** of creating stable, adaptive memory architectures for intelligent systems.
 
+This is a **fully self-funded research project**.
+
 As part of this work, I'm conducting **real experiments on my hybrid AI agent, [NoVa](https://github.com/Mike014/__NoVa__)**, which combines **LLMs** and **context-aware memory structures**. The agent remains coherent within conversations and is built using the **SmolAgents** library for lightweight autonomous behavior. This experimentation bridges theory with practical autonomous systems.
 
 ## Research Papers
