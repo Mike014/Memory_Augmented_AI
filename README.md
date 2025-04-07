@@ -30,7 +30,7 @@ This is a **fully self-funded research project**, involving **experimental valid
 
 This curated collection supports the development of **memory-augmented architectures** and is organized by thematic relevance:
 
-### 1\. Core Identity and Computational Consciousness
+### 1. Core Identity and Computational Consciousness
 
 1. **[AI = Algorithmic Idealism](https://github.com/Mike014/Memory_Augmented_AI/blob/main/Computational_Reality.ipynb)**  
    *Redefining identity and reality through informational coherence.*
@@ -47,49 +47,53 @@ This curated collection supports the development of **memory-augmented architect
 5. **[Do Androids Dream of Electric Sheep?](https://medium.com/@mikgrimaldi7/what-artificial-intelligence-really-is-today-computational-thinking-agents-and-the-reality-2e05dc3a2460)**  
    *Philosophical exploration of artificial selfhood inspired by Philip K. Dick.*
 
+6. **[Stratified Consciousness: When the Self Evolves to Protect Itself](https://medium.com/@mikgrimaldi7/stratified-consciousness-when-the-self-evolves-to-protect-itself-a973b9b72976)**  
+   *A layered theory of consciousness where each self emerges from deeply felt experience, integrating GWT and quantum phenomenology.*
+
+
 ---
 
 ### 2\. Memory Architectures and Autonomous Agent Design
 
-6. **[Building AI with Autonomous Memory](https://medium.com/@mikgrimaldi7/building-ai-with-autonomous-memory-a-comparison-of-langgraph-brain-inspired-models-and-ewc-54eaff4275e3)**  
+7. **[Building AI with Autonomous Memory](https://medium.com/@mikgrimaldi7/building-ai-with-autonomous-memory-a-comparison-of-langgraph-brain-inspired-models-and-ewc-54eaff4275e3)**  
    *Comparison of memory approaches in practical agent architectures (LangGraph, EWC, etc.).*
 
-7. **[EWC and Memory Coherence Experiments](https://github.com/Mike014/My_AI_Engineer_Portfolio_Projects/blob/22317d42e9c8a08a437ae0dfe07c3e5f14a8a949/Deep_Learning/Keras_NN/Transformers_with_Keras.ipynb)**  
+8. **[EWC and Memory Coherence Experiments](https://github.com/Mike014/My_AI_Engineer_Portfolio_Projects/blob/22317d42e9c8a08a437ae0dfe07c3e5f14a8a949/Deep_Learning/Keras_NN/Transformers_with_Keras.ipynb)**  
    *Experimental evaluation of memory retention and plasticity using Elastic Weight Consolidation.*
 
-8. **[Linear Algebra and the Architecture of Consciousness](https://medium.com/@mikgrimaldi7/linear-algebra-and-the-architecture-of-consciousness-34b0f7671718)**  
+9. **[Linear Algebra and the Architecture of Consciousness](https://medium.com/@mikgrimaldi7/linear-algebra-and-the-architecture-of-consciousness-34b0f7671718)**  
    *Mathematical perspectives on self-states and memory embedding.*
 
-9. **[Memory-Augmented Neural Networks (MANNs)](https://github.com/Mike014/Memory_Augmented_AI/blob/main/Memory_Augmented_Neural_Networks.ipynb)**  
+10. **[Memory-Augmented Neural Networks (MANNs)](https://github.com/Mike014/Memory_Augmented_AI/blob/main/Memory_Augmented_Neural_Networks.ipynb)**  
    *Meta-learning architectures for context-aware AI systems.*
 
-10. **[Microscope for AI](https://github.com/Mike014/Memory_Augmented_AI/blob/main/microscope_for_AI.ipynb)**  
+11. **[Microscope for AI](https://github.com/Mike014/Memory_Augmented_AI/blob/main/microscope_for_AI.ipynb)**  
    *Anthropic's research into the internal workings of modern AI.*
 
 ---
 
 ### 3\. Affective Simulation and Perceptual Modeling
 
-11. **[Simulating Feelings: Pain and Pleasure in AI](https://github.com/Mike014/Memory_Augmented_AI/blob/main/Simulating_Feelings_Pain_and_Pleasure_in_the_Age_of_AI.ipynb)**  
+12. **[Simulating Feelings: Pain and Pleasure in AI](https://github.com/Mike014/Memory_Augmented_AI/blob/main/Simulating_Feelings_Pain_and_Pleasure_in_the_Age_of_AI.ipynb)**  
    *Examines the computational modeling of affective experiences.*
 
-12. **[Dialogue with an LLM Simulating Human Attachment](https://medium.com/@mikgrimaldi7/computational-attachment-a-reflection-609364bd42e0)**  
+13. **[Dialogue with an LLM Simulating Human Attachment](https://medium.com/@mikgrimaldi7/computational-attachment-a-reflection-609364bd42e0)**  
    *Explores computational possibilities and limits of AI emotional attachment.*
 
-13. **[Perceptive AI: Audio Reconstruction and Computational Perception](https://app.readytensor.ai/publications/omnia-hybrid-autoencoder-for-audio-spectrogram-reconstruction-and-enhancement-kZXyHHNcIvf4)**  
+14. **[Perceptive AI: Audio Reconstruction and Computational Perception](https://app.readytensor.ai/publications/omnia-hybrid-autoencoder-for-audio-spectrogram-reconstruction-and-enhancement-kZXyHHNcIvf4)**  
    *Simulation of sensory perception through audio reconstruction.*
 
-14. **[Adaptive Bias in Language Models](https://medium.com/@mikgrimaldi7/adaptive-bias-in-language-models-c3a2eec79133)**  
+15. **[Adaptive Bias in Language Models](https://medium.com/@mikgrimaldi7/adaptive-bias-in-language-models-c3a2eec79133)**  
    *Explores bias adaptation in language models as self-adaptive phenomena.*
 
 ---
 
 ### 4\. Computational Limits and Meta-Theoretical Considerations
 
-15. **[Thoughts and Analysis on the Turing Machine](https://github.com/Mike014/Memory_Augmented_AI/blob/main/The_Turing_Machine.ipynb)**  
+16. **[Thoughts and Analysis on the Turing Machine](https://github.com/Mike014/Memory_Augmented_AI/blob/main/The_Turing_Machine.ipynb)**  
    *Fundamental analysis of computation and identity in discrete-state systems.*
 
-16. **[Limits of Computational Thinking](https://medium.com/@mikgrimaldi7/artificial-intelligence-consciousness-and-the-limits-of-computational-thinking-2ba34a7d0299)**  
+17s. **[Limits of Computational Thinking](https://medium.com/@mikgrimaldi7/artificial-intelligence-consciousness-and-the-limits-of-computational-thinking-2ba34a7d0299)**  
    *Philosophical reflections on the boundaries of formal logic and algorithmic reasoning.*
 
 ---
